@@ -1,2 +1,1 @@
-data/events_lands_181920.csv filter=lfs diff=lfs merge=lfs -text
 data/events_land_181920.csv filter=lfs diff=lfs merge=lfs -text
