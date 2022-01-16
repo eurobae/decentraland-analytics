@@ -7,7 +7,7 @@ It is possible to trade both parcles and Estates on the [official marketplace](h
 
 Below is a list of main characteristics distinguishing each LAND parcel:
 - Distance to District
-- Distnace to Plaza
+- Distance to Plaza
 - Distance to Road
 - Neighborhood
 - ...
