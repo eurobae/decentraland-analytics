@@ -17,7 +17,9 @@ Below is a list of main characteristics distinguishing each LAND parcel:
 
 
 ## Timeline
-- 2017-Dec - 2018-Jan: First public LAND auction
+- 2017-Aug-18: ICO
+- 2017-Dec-15 - 2018-Jan-??: [First public LAND auction](https://medium.com/decentraland/the-terraform-event-is-around-the-corner-bdda6a2d4367)
+- 2018-Mar-??: Decentraland Marketplace launch
 - 2018-Dec-10 - 2018-Dec-23: [Second public LAND auction](https://decentraland.org/blog/announcements/the-decentraland-land-auction-has-started/)
 - 2020-Feb-20: [Decentraland public launch](https://decentraland.org/blog/announcements/decentraland-announces-publich-launch/)
 
