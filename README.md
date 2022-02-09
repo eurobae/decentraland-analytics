@@ -25,7 +25,7 @@ Below is a list of main characteristics distinguishing each LAND parcel:
 
 
 ## Retrieving LAND Transactions from OpenSea
-[OpenSea API](https://docs.opensea.io/reference/api-overview) is used to retrieve all the historical events (e.g., auctions, sales, transfers) of LANDs from 2018 to 2020. The retrieval is in progress; 75,560 transactions of 30,000 parcels have been collected so far.
+[OpenSea API](https://docs.opensea.io/reference/api-overview) is used to retrieve all the historical events (e.g., auctions, sales, transfers) of LANDs. Between 2018 and 2020, 244,695 transactions of 92,598 parcels are retrieved (i.e., 2.64 tx/parcel). Retrieving trransactions in 2021 is in progress.
 
 
 
