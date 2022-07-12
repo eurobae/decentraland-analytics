@@ -32,7 +32,7 @@ Below is a list of main characteristics distinguishing each LAND parcel:
 | (100-107,76-82)<br />except (100,76),(105,82),(107,76),(107,80-82)| 50 | 2022-01-06 | | Samsung 837X | https://news.samsung.com/us/samsung-837x-metaverse-customization-youmake-create-world-you-want/ |
 | (18-19,142-143) | 4 | 2022-01-07 | | Prager Metis | https://pragermetis.com/news/prager-metis-opens-first-ever-cpa-firm-metaverse/ |
 | (94,23) | 1 | 2022-02-15 | | J.P.Morgan | https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf |
-| (51-55,74-77) | 20 | 2022-02-23 | VICE Media Group | https://dappradar.com/blog/vice-media-group-unveils-hq-in-decentraland |
+| (51-55,74-77) | 20 | 2022-02-23 | | VICE Media Group | https://dappradar.com/blog/vice-media-group-unveils-hq-in-decentraland |
 
 
 ## Retrieving LAND Transactions from OpenSea
