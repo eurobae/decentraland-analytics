@@ -24,6 +24,14 @@ Below is a list of main characteristics distinguishing each LAND parcel:
 - 2020-Feb-20: [Decentraland public launch](https://decentraland.org/blog/announcements/decentraland-announces-publich-launch/)
 
 
+## 
+| Location | Start | End | Organization | Link |
+| -- | -- | -- | -- | -- |
+| (-138,-116) | 2021-03-12 | 2021-03-13 | Domino's Pizza | https://events.decentraland.org/event/?id=9ad1f34a-4565-498d-bac5-835e9c6b6047 |
+| (52,83) | 2021-06-04 | | Sotheby's | https://decentraland.org/blog/announcements/sotheby-s-opens-a-virtual-gallery-in-decentraland/ |
+| (94,23) | 2022-02-15 |  | J.P.Morgan | https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf |
+
+
 ## Retrieving LAND Transactions from OpenSea
 [OpenSea API](https://docs.opensea.io/reference/api-overview) is used to retrieve all the historical events (e.g., auctions, sales, transfers) of LANDs. Between 2018 and 2020, 244,695 transactions of 92,598 parcels are retrieved (i.e., 2.64 tx/parcel). Retrieving trransactions in 2021 is in progress.
 
