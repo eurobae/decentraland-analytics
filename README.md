@@ -27,8 +27,10 @@ Below is a list of main characteristics distinguishing each LAND parcel:
 ## 
 | Location | Size | Start | End | Organization | Link |
 | -- | -- | -- | -- | -- | -- |
-| (-138,-116) | 1 | 2021-03-12 | 2021-03-13 | Domino's Pizza | https://events.decentraland.org/event/?id=9ad1f34a-4565-498d-bac5-835e9c6b6047 |
+| ? | ? | ? | ? | Atari | ? |
+| (-138,-116) | 1 | 2021-03-12 | 2021-03-13 | Domino's Pizza (Not official) | https://events.decentraland.org/event/?id=9ad1f34a-4565-498d-bac5-835e9c6b6047 |
 | (52-56,82-85) | 20 | 2021-06-04 | | Sotheby's | https://decentraland.org/blog/announcements/sotheby-s-opens-a-virtual-gallery-in-decentraland/ |
+| ? | ? | 2021-07-30 | ? | Coca Cola | ? |
 | (100-107,76-82)<br />except (100,76),(105,82),(107,76),(107,80-82)| 50 | 2022-01-06 | | Samsung 837X | https://news.samsung.com/us/samsung-837x-metaverse-customization-youmake-create-world-you-want/ |
 | (18-19,142-143) | 4 | 2022-01-07 | | Prager Metis | https://pragermetis.com/news/prager-metis-opens-first-ever-cpa-firm-metaverse/ |
 | (94,23) | 1 | 2022-02-15 | | J.P.Morgan | https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf |
