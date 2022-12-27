@@ -22,6 +22,7 @@ Below is a list of main characteristics distinguishing each LAND parcel:
 - 2018-Mar-??: Decentraland Marketplace launch
 - 2018-Dec-10 - 2018-Dec-23: [Second public LAND auction](https://decentraland.org/blog/announcements/the-decentraland-land-auction-has-started/)
 - 2020-Feb-20: [Decentraland public launch](https://decentraland.org/blog/announcements/decentraland-announces-publich-launch/)
+- 2022-Dec-??: [LAND Rentals launch](https://decentraland.org/blog/announcements/land-rentals-become-an-easy-process-via-decentraland-s-marketplace/)
 
 
 ## 
